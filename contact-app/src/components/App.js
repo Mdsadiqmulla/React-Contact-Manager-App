@@ -9,8 +9,8 @@ function App() {
     
       <div>
         <Header></Header>
-        {/* <AddContact></AddContact>
-        <ContactList></ContactList> */}
+        <AddContact></AddContact>
+        {/* <ContactList></ContactList> */}
       </div>
     
   );
